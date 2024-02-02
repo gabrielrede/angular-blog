@@ -1,0 +1,17 @@
+.container_menu-title {
+    color: white;
+}
+
+.container_menu-title > h1 {
+    font-family: 'Orbitron', sans-serif;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-size: 80px;
+    display: flex;
+    justify-content: center;
+}
+
+.container_menu-title > hr {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
